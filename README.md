@@ -2,6 +2,9 @@
 
 https://chatgpt.com/share/6820b72d-ff6c-8004-a2a5-21c6428e0b3f
 
+### Demo
+
+https://g3-technologies.github.io/g3tech/
 
 # G3 Technologies
 
@@ -51,3 +54,6 @@ Contact form with JavaScript validation
 A sticky navbar and a scroll-to-top button
 Use Bootstrap classes as much as possible, and write clean, well-commented HTML and JavaScript.
 
+### Demo 2
+
+https://g3-technologies.github.io/g3tech/landing.html
