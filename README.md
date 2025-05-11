@@ -31,4 +31,23 @@ background image: Futuristic cityscape
 generate code
 
 
-==== WEBSITE CREATION=====================
+==== WEBSITE CREATION=======full-below==============
+
+
+Create a full-featured landing page for a SaaS product using HTML5, Bootstrap 5, and vanilla JavaScript. The design should be modern and responsive. Include these sections:
+
+Hero section with a call-to-action button
+
+Features section with icons
+
+About us section
+
+Pricing plans
+
+Testimonials carousel
+
+Contact form with JavaScript validation
+
+A sticky navbar and a scroll-to-top button
+Use Bootstrap classes as much as possible, and write clean, well-commented HTML and JavaScript.
+
