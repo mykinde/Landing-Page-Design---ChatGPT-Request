@@ -15,6 +15,8 @@ for full package and demo contact g3send@gmail.com
 
 
 ==== WEBSITE CREATION=======ChartGpt Prompt==============
+
+
 Generate a full featured, mondern landing page using HTML, CSS, and JavaScript (no frameworks).
 Include any of the following?
 
@@ -27,4 +29,6 @@ logo to be:Symbolic - tech-inspired icon
 background image: Futuristic cityscape
 
 generate code
+
+
 ==== WEBSITE CREATION=====================
